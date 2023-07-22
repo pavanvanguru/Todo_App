@@ -1,0 +1,47 @@
+body {
+    background-image:"pxfuel.jpg";
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #daa9a9;
+    color: #cf8d79;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #login-section, #todo-section {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 10px;
+  }
+  
+  input, button {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
